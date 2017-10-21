@@ -9,7 +9,7 @@
 	  <tag>HEAD</tag>
   </scm>
   <properties>
-  	<my-version>0.0.3-SNAPSHOT</my-version>
+  	<my-version>0.0.4-SNAPSHOT</my-version>
   </properties>
 	<modules>
 		<module>child1</module>
