@@ -6,7 +6,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<scm>
-		<developerConnection>scm:git:file://localhost/Users/pascalleclercq/repo</developerConnection>
+		<developerConnection>scm:git:file://localhost/Users/pascalleclercq/git/single-version</developerConnection>
 	</scm>
 	<modules>
 		<module>child1</module>
