@@ -3,7 +3,7 @@
   <parent>
     <groupId>demo-single-version</groupId>
     <artifactId>single-version</artifactId>
-    <version>0.0.3-SNAPSHOT</version>
+    <version>${my-version}</version>
   </parent>
   <artifactId>child1</artifactId>
 </project>

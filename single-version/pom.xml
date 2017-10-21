@@ -2,12 +2,15 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>demo-single-version</groupId>
 	<artifactId>single-version</artifactId>
-	<version>0.0.3-SNAPSHOT</version>
+	<version>${my-version}</version>
 	<packaging>pom</packaging>
 	<scm>
 		<developerConnection>scm:git:https://github.com/pascalleclercq/single-version.git</developerConnection>
 	  <tag>HEAD</tag>
   </scm>
+  <properties>
+  	<my-version>0.0.3-SNAPSHOT</my-version>
+  </properties>
 	<modules>
 		<module>child1</module>
 		<module>child2</module>
