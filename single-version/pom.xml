@@ -5,7 +5,7 @@
 	<version>0.0.2-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<scm>
-		<developerConnection>scm:git:file://localhost/Users/pascalleclercq/git/single-version</developerConnection>
+		<developerConnection>scm:git:https://github.com/pascalleclercq/single-version.git</developerConnection>
 	  <tag>HEAD</tag>
   </scm>
 	<modules>
