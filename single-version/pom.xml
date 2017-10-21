@@ -6,7 +6,6 @@
 	<packaging>pom</packaging>
 	<scm>
 		<developerConnection>scm:git:https://github.com/pascalleclercq/single-version.git</developerConnection>
-	  <tag>HEAD</tag>
   </scm>
   <properties>
   	<my-version>0.0.5-SNAPSHOT</my-version>
